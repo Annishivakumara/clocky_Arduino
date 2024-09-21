@@ -8,8 +8,6 @@
 #define LCD_COLS    16
 #define LCD_ROWS    2
 
-
-
 // Define button pins
 #define BUTTON_PIN          2
 #define BUTTON_SET_HOUR     3
